@@ -11,3 +11,7 @@ p {
 img {
     width: 50%;
 }
+
+h1, p, img {
+    border: seagreen 1px solid;
+}
