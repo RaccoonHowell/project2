@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    font-size: 4rem;
+}
+
+p {
+    color: rebeccapurple;
+    font-size: 3rem;
+}
+
+h1, p, img {
+    border: yellowgreen 3px solid;
+    justify-content: center;
+}
+
